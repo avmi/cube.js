@@ -7836,9 +7836,9 @@
     tedious "*"
 
 "@types/mysql@^2.15.19":
-  version "2.15.21"
-  resolved "https://registry.yarnpkg.com/@types/mysql/-/mysql-2.15.21.tgz#7516cba7f9d077f980100c85fd500c8210bd5e45"
-  integrity sha512-NPotx5CVful7yB+qZbWtXL2fA4e7aEHkihHLjklc6ID8aq7bhguHgeIoC1EmSNTAuCgI6ZXrjt2ZSaXnYX0EUg==
+  version "2.15.28"
+  resolved "https://registry.yarnpkg.com/@types/mysql/-/mysql-2.15.28.tgz#245580b39b6d98c3a07a6a528cc5590eecf7f2b2"
+  integrity sha512-NRNRbmYPZLXO/TIO8N/4b4jG9fS921Di5nsUCsU+tJDgQRhqoI5sBqKc25Wfj/FiJH6S+e3vILZXFwBrYVBqsg==
   dependencies:
     "@types/node" "*"
 
