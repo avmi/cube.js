@@ -11827,11 +11827,11 @@ __metadata:
   linkType: hard
 
 "@types/mysql@npm:^2.15.19":
-  version: 2.15.21
-  resolution: "@types/mysql@npm:2.15.21"
+  version: 2.15.28
+  resolution: "@types/mysql@npm:2.15.28"
   dependencies:
     "@types/node": "npm:*"
-  checksum: 10c0/69c6fbce90b51a7493fc2be52f14951f5409ba2af101bc4fa6c3decc43c3fb3f7059608c14d602405662ffbda4fabc32620d08f50eb6c8e263087decfb1fa2f8
+  checksum: 10c0/300b2c106280e07faccde51e23f9b4feb6dd0e7a990fa643fbc0d88995359ff92ea398b361cb0b40c3190a4d1d9d4b9b841fa45563f7a721460d1d22c929f480
   languageName: node
   linkType: hard
 
