@@ -11747,11 +11747,12 @@ __metadata:
   linkType: hard
 
 "@types/jsonwebtoken@npm:^9.0.2":
-  version: 9.0.6
-  resolution: "@types/jsonwebtoken@npm:9.0.6"
+  version: 9.0.10
+  resolution: "@types/jsonwebtoken@npm:9.0.10"
   dependencies:
+    "@types/ms": "npm:*"
     "@types/node": "npm:*"
-  checksum: 10c0/9c29e3896e5fb6056e54d87514643e59e0cfb966ae25171a107776270195bba955f0373e98c8ed6450c145b18984f5df9cf0fcac360f382cec3c7c4d3510b202
+  checksum: 10c0/0688ac8fb75f809201cb7e18a12b9d80ce539cb9dd27e1b01e11807cb1a337059e899b8ee3abc3f2c9417f02e363a3069d9eab9ef9724b1da1f0e10713514f94
   languageName: node
   linkType: hard
 
@@ -11812,6 +11813,13 @@ __metadata:
   dependencies:
     moment-range: "npm:*"
   checksum: 10c0/e07cd31b1736282a6e07b372332e3bc877d29aa605c0941ef2c8e65de8f93ff39c60cd12f3665583abf6e7add331501f4daafc79f69eaec7145d58c315cc577a
+  languageName: node
+  linkType: hard
+
+"@types/ms@npm:*":
+  version: 2.1.0
+  resolution: "@types/ms@npm:2.1.0"
+  checksum: 10c0/5ce692ffe1549e1b827d99ef8ff71187457e0eb44adbae38fdf7b9a74bae8d20642ee963c14516db1d35fa2652e65f47680fdf679dcbde52bbfadd021f497225
   languageName: node
   linkType: hard
 
